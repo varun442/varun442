@@ -1,5 +1,13 @@
 <h1 style="text-align: center">Hi 👋, I'm Varun Savai</h1>
 <h3 style="text-align: center">Software Engineer from Atlanta, GA</h3>
+
+- 🔭 I’m currently working on [portfolio](https://varunsavai.vercel.app/)
+
+- 🌱 I’m currently learning **NextJS**
+
+- 📫 How to reach me **varun.savai23@gmail.com**
+
+- ⚡ Fun fact **I love creating time-lapse videos of Sky, lifting weights and nutrition.**
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
